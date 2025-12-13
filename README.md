@@ -1,5 +1,5 @@
 # Hi there, I'm Talha Sikandar 👋
-**Engineer of logic, architect of code, solver of digital puzzles.**  
+**Problem Solver.**  
 Aspiring Computer Scientist with a knack for turning complex problems into elegant, efficient code.
 
 ---
