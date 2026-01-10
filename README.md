@@ -1,4 +1,4 @@
-# Hi there, I'm Talha Sikandar 👋
+# Hi there, I'm Talha Sikandar ;)
 **Problem Solver.**  
 Aspiring Computer Scientist with a knack for turning complex problems into elegant, efficient code.
 
