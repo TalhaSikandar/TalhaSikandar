@@ -25,9 +25,9 @@ into products, infrastructure, and real-world operations.**
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_System-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/TalhaSikandar)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_System-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://talha-sikandar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/talha-sikandar/)
-[![Email](https://img.shields.io/badge/EMAIL-Initialize_Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayeshasiddiqa0167@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-Initialize_Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raotalha396@gmail.com)
 
 </div>
 
